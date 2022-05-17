@@ -83,5 +83,12 @@
 #### &emsp;4）打印信息栏
 &emsp;&emsp;&emsp;&emsp;开发者信息；当前落子颜色（或者哪方胜利）；步数；最近一次落子位置<br> 
 &emsp;&emsp;&emsp;&emsp;![6.png](https://s2.loli.net/2022/05/17/1K7YjVO4kE9sHWc.png)
-## 四.完整代码
+## 四.安装包 ##
+### 1.图标
+![11.png](https://s2.loli.net/2022/05/17/nqrSJLyipdWgUfH.png)
+### 2.安装文件
+![12.png](https://s2.loli.net/2022/05/17/oGBdIt9M2ZEPbqV.png)
+### 3.安装程序
+![13.png](https://s2.loli.net/2022/05/17/28FEjeTJHBsb5gK.png)![14.png](https://s2.loli.net/2022/05/17/QAbofiR8csqk7LY.png)
+## 五.源代码
 见附件
